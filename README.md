@@ -15,7 +15,7 @@ The Task Management API is a powerful and flexible task management system built 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your/repository.git`
+1. Clone the repository: `git clone https://github.com/tas-management-api/repository.git`
 2. Install dependencies: `npm  install or yarn add `
 3. Set up environment variables: Rename `.env.example` to `.env` and provide the necessary configuration.
 4. Start the server: `npm  run or yarn start:dev`
@@ -59,6 +59,6 @@ Special thanks to the NestJS community and contributors for their fantastic work
 
 ## Contact
 
-For any inquiries or questions, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or questions, please contact [johnnyetsha@gmail.com](mailto:johnnyetsha@gmail.com).
 
 Happy task managing!
