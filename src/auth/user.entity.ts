@@ -5,9 +5,9 @@ export class User {
     @PrimaryGeneratedColumn('uuid')
     id :String;
 
-    @Column()
+    @Column({unique : true})
     usernamed : string;
-    
+
     @Column()
     password: string;
 
