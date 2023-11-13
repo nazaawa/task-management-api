@@ -1,3 +1,4 @@
+
 # Task Management API
 
 The Task Management API is a powerful and flexible task management system built with NestJS. It provides an intuitive interface for users to create and manage their tasks efficiently. The API ensures data privacy by restricting access to only the user's own tasks.
@@ -15,9 +16,9 @@ The Task Management API is a powerful and flexible task management system built 
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/your/repository.git`
-2. Install dependencies: `npm install`
+2. Install dependencies: `npm  install or yarn add `
 3. Set up environment variables: Rename `.env.example` to `.env` and provide the necessary configuration.
-4. Start the server: `npm run start:dev`
+4. Start the server: `npm  run or yarn start:dev`
 5. The API will be accessible at `http://localhost:3000`.
 
 ## API Endpoints
